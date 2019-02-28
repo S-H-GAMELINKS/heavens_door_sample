@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Using Capybara
-gem 'capybara', '>= 2.15'
+gem 'capybara', '>= 2.15', group: :development
 
 # Using Heavens Door
 gem 'heavens_door', group: :development
